@@ -10,14 +10,26 @@ import NetflixFrontImage from "../assets/project-images/netflix/netflix-front.pn
 import NetflixSecondImage from "../assets/project-images/netflix/netflix-phones-1.png";
 import NetflixThirdImage from "../assets/project-images/netflix/netflix-phones-2.png";
 
-import EcommerceCover from "../assets/project-images/ecommerce/ecommerce-cover.png";
-import EcommerceFirstImage from "../assets/project-images/ecommerce/ecommerce-desktop.png";
-import EcommerceFrontImage from "../assets/project-images/ecommerce/ecommerce-front.png";
-import EcommerceSecondImage from "../assets/project-images/ecommerce/ecommerce-phones-1.jpg";
-import EcommerceThirdImage from "../assets/project-images/ecommerce/ecommerce-phones-2.jpg";
-
+import SummaristCoverImage from "../assets/project-images/summarist/summarist-cover.png";
+import SummaristFirstImage from "../assets/project-images/summarist/summarist-desktop.png";
+import SummaristFrontImage from "../assets/project-images/summarist/summarist-front.png";
+import SummaristSecondImage from "../assets/project-images/summarist/summarist-phones-1.png";
+import SummaristThirdImage from "../assets/project-images/summarist/summarist-phones-2.png";
 
 const projectsConfig = [
+  {
+    title: "Summarist",
+    type: "Web App",
+    description:
+      "Discover the future of digital libraries with Summarist, an innovative platform that opens the doors to a world of electronic resources, providing seamless access and an unparalleled user experience.",
+    liveLink: "https://summarist-beta.vercel.app",
+    githubLink: "https://github.com/fnalviar/summarist",
+    coverImage: SummaristCoverImage,
+    topImage: SummaristFrontImage,
+    firstImage: SummaristFirstImage,
+    secondImage: SummaristSecondImage,
+    thirdImage: SummaristThirdImage,
+  },
   {
     title: "NFT Marketplace",
     type: "Web App",
@@ -44,20 +56,6 @@ const projectsConfig = [
     secondImage: NetflixSecondImage,
     thirdImage: NetflixThirdImage,
   },
-  {
-    title: "React E-Library",
-    type: "Web App",
-    description:
-      "Library serves as a comprehensive online library, allowing users to effortlessly browse a collection of books, explore featured and discounted titles, and make informed purchasing decisions. With an intuitive interface, users can access detailed book information, including pricing, and conveniently add their desired books to the cart. The platform provides a transparent view of the total cost, including taxes, enabling users to effectively manage their purchases. Library is a valuable tool for book enthusiasts, offering a seamless and engaging experience in discovering and acquiring their favourite literary treasures.",
-    liveLink: "https://library-nu-nine.vercel.app",
-    githubLink: "https://github.com/fnalviar/library-react",
-    coverImage: EcommerceCover,
-    topImage: EcommerceFrontImage,
-    firstImage: EcommerceFirstImage,
-    secondImage: EcommerceSecondImage,
-    thirdImage: EcommerceThirdImage,
-  },
-
 ];
 
 export default projectsConfig;
