@@ -3,10 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  /* font-family: "Montserrat", sans-serif;
-  font-family: "Roboto", sans-serif; */
   font-family: "Lato", Arial, Helvetica, sans-serif;
-  /* cursor: none; */
   scroll-behavior: smooth;
 }
 
@@ -660,7 +657,7 @@ nav.open {
 
 .projects__wrapper {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   gap: 50px;
   max-width: 750px;
   margin: 0 auto;

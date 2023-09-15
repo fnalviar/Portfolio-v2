@@ -8,7 +8,7 @@ export const experienceConfig = [
       "Engineered a robust backend API using Node.js and Express, ensuring scalability, flexibility, and seamless frontend interaction",
       "Designed and integrated charts to efficiently represent statistical data, aiding in better user comprehension and decision-making"
     ],
-    date: "Dec 2022 - Current",
+    date: "Jan 2023 - Present",
   },
   {
     name: "Frontend Simplified",
@@ -18,7 +18,7 @@ export const experienceConfig = [
       "Processed API requests with Axios to dynamically represent data from a cloud server and represented it through skeleton loading states, pagination, and dynamic routing",
       "Utilized Git version control and the GitHub interface to work and thrive in a virtual and collaborative team environment",
     ],
-    date: "Aug 2022 - Nov 2022",
+    date: "Sept 2022 - Dec 2022",
   },
   {
     name: "Revature",
@@ -29,6 +29,6 @@ export const experienceConfig = [
       "Ensured high-quality code by conducting comprehensive unit testing with JUnit and Mockito, achieving a minimum passing rate of 70%",
       "Partnered with a team of 3 developers to deliver high-quality web applications on tight deadlines, adhering to Agile Methodology with bi-weekly sprints, resulting in a 100% success rate in project delivery"
     ],
-    date: "May 2022 - July 2022",
+    date: "May 2022 - Aug 2022",
   },
 ];
