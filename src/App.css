@@ -902,6 +902,7 @@ nav.open {
 
 .modal__grid--wrapper {
   position: relative;
+  top: 10%;
 }
 
 .modal__background--image-1 {
