@@ -49,7 +49,7 @@ const Resume = () => {
                   href="https://www.linkedin.com/in/nikka-alviar"
                   target="_blank"
                 >
-                  Linkedin
+                  LinkedIn
                 </a>
               </div>
             </div>

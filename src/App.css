@@ -671,6 +671,7 @@ nav.open {
   overflow: hidden;
   position: relative;
   cursor: pointer;
+  height: 450px;
 }
 
 .project__description {
