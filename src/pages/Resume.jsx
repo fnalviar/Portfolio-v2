@@ -72,11 +72,13 @@ const Resume = () => {
             <div className="resume__education--wrapper">
               <div className="resume__education">
                 <div className="resume__job--name">
-                  York University, Toronto, Canada
-                </div>
-                <div>
                   Honours Bachelor of Arts, Information Technology Major
                 </div>
+                <div>York University</div>
+                <div className="resume__job--name">
+                  Web Application Development
+                </div>
+                <div>Frontend Simplified Bootcamp</div>
               </div>
               <div className="resume__job--date"></div>
             </div>
