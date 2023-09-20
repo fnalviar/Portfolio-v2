@@ -671,7 +671,7 @@ nav.open {
   overflow: hidden;
   position: relative;
   cursor: pointer;
-  height: 450px;
+  height: 350px;
 }
 
 .project__description {
@@ -767,7 +767,7 @@ nav.open {
 
 .modal__close {
   position: fixed;
-  top: 20px;
+  top: 25px;
   right: 50px;
   color: black;
   background-color: white;
@@ -816,7 +816,7 @@ nav.open {
 }
 
 .modal__top--background {
-  height: 100vh;
+  /* height: 100vh; */
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -904,7 +904,6 @@ nav.open {
 
 .modal__grid--wrapper {
   position: relative;
-  top: 10%;
 }
 
 .modal__background--image-1 {
