@@ -19,7 +19,7 @@ import SummaristThirdImage from "../assets/project-images/summarist/summarist-ph
 const projectsConfig = [
   {
     title: "Summarist",
-    type: "Web App",
+    type: "Web Application",
     description:
       "Discover the future of digital libraries with Summarist, an innovative platform that opens the doors to a world of electronic resources, providing seamless access and an unparalleled user experience.",
     liveLink: "https://summarist-beta.vercel.app",
