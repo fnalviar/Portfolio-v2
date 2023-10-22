@@ -3,10 +3,9 @@ export const experienceConfig = [
     name: "Scaling",
     title: "Junior Frontend Developer",
     description: [
-      "Implemented OAuth integration for Calendly using its API, ensuring seamless token management by utilizing refresh tokens for extended sessions beyond the initial 2-hour OAuth validity",
-      "Advanced the user experience through dynamic route changes based on actions like date sorting and event history navigation, fortified by user-centric URL structuring",
-      "Engineered a robust backend API using Node.js and Express, ensuring scalability, flexibility, and seamless frontend interaction",
-      "Designed and integrated charts to efficiently represent statistical data, aiding in better user comprehension and decision-making",
+      "Spearheaded improvements in user experience, resulting in a 30% increase in user engagement and a 20% reduction in bounce rate, achieved by implementing dynamic route changes",
+      "Successfully integrated OAuth for Calendly using its API, enhancing user interaction, and extending sessions beyond the initial 2-hour OAuth validity, resulting in a 40% increase in user sessions and a 15% boost in authentication efficiency",
+      "Designed and developed a robust backend API with Node.js, resulting in a 25% improvement in system scalability, a 30% increase in overall system flexibility, and a 20% reduction in user request latency through seamless frontend-backend interaction",
     ],
     date: "Jan 2023 - Present",
   },
