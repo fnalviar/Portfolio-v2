@@ -1,7 +1,7 @@
 import React from "react";
-import FooterLogo from "../assets/footer-logo.svg";
 import { AiFillFilePdf } from "react-icons/ai";
 import { MdOutlineArrowUpward } from "react-icons/md";
+import FooterLogo from "../assets/footer-logo.svg";
 import { GithubIcon, LinkedInIcon, MailIcon } from "../components/Icons";
 
 const Footer = () => {

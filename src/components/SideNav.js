@@ -1,9 +1,5 @@
 import { useState } from "react";
 
-import gitHubIcon from "../assets/icons/GHicon.svg";
-import linkedinIcon from "../assets/icons/LNicon.svg";
-import resumeIcon from "../assets/icons/RESUMEicon.svg";
-
 function SideNav() {
   const [openNav, setOpenNav] = useState(false);
 
