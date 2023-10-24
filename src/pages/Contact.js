@@ -26,13 +26,10 @@ function Contact({ setRotateSpeed }) {
     setRotateSpeed(60);
     emailjs
       .sendForm(
-        "gmail",
-        "template_dyvlfqm",
-        // process.env.REACT_APP_SERVICE_ID,
-        // process.env.REACT_APP_TEMPLATE_ID,
+        process.env.REACT_APP_SERVICE_ID,
+        process.env.REACT_APP_TEMPLATE_ID,
         form.current,
-        // process.env.REACT_APP_USER_ID
-        "user_UCVQB9AIUbJaobUtpSXnz"
+        process.env.REACT_APP_USER_ID
       )
       .then(
         (res) => {
