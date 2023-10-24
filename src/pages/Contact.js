@@ -17,7 +17,7 @@ function Contact({ setRotateSpeed }) {
   const form = useRef();
 
   useEffect(() => {
-    init(process.env.REACT_APP_USER_ID);
+    init(process.env.REACT_APP_PUBLIC_KEY);
   }, []);
 
   const sendEmail = (e) => {
@@ -29,7 +29,7 @@ function Contact({ setRotateSpeed }) {
         process.env.REACT_APP_SERVICE_ID,
         process.env.REACT_APP_TEMPLATE_ID,
         form.current,
-        process.env.REACT_APP_USER_ID
+        process.env.REACT_APP_PUBLIC_KEY
       )
       .then(
         (res) => {
