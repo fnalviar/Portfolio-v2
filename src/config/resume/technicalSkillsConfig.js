@@ -7,4 +7,9 @@ export const technicalSkillsConfig = [
   "CSS",
   "Java",
   "SQL",
+  "AWS RDS",
+  "TailWind",
+  "Vercel",
+  "Next.js",
+  "Stripe",
 ];
