@@ -1,4 +1,3 @@
-import { Paper } from "@mui/material";
 import React from "react";
 
 function Project({ image, onClick, title }) {

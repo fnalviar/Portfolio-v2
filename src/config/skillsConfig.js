@@ -1,12 +1,19 @@
-import { FaReact } from "react-icons/fa";
+import { FaJava, FaReact } from "react-icons/fa";
+import { GrStripe } from "react-icons/gr";
+import { RxVercelLogo } from "react-icons/rx";
 import {
+  SiAmazonaws,
+  SiAngular,
+  SiBootstrap,
   SiCss3,
   SiFirebase,
   SiHtml5,
   SiJavascript,
-  SiAngular,
-  SiTypescript,
+  SiNextdotjs,
+  SiPostgresql,
   SiRedux,
+  SiTailwindcss,
+  SiTypescript,
 } from "react-icons/si";
 
 export const skillsConfig = [
@@ -49,5 +56,45 @@ export const skillsConfig = [
     icon: <SiAngular />,
     text: "Angular",
     color: "rgb(255, 0, 50)",
+  },
+  {
+    icon: <FaJava />,
+    text: "Java",
+    color: "rgb(13, 138, 199)",
+  },
+  {
+    icon: <SiPostgresql />,
+    text: "PostgreSQL",
+    color: "rgb(47, 103, 147)",
+  },
+  {
+    icon: <SiNextdotjs />,
+    text: "Next.js",
+    color: "rgb(0, 0, 0)",
+  },
+  {
+    icon: <GrStripe />,
+    text: "Stripe",
+    color: "rgb(99, 91, 255)",
+  },
+  {
+    icon: <SiTailwindcss />,
+    text: "TailWind",
+    color: "rgb(23, 184, 214)",
+  },
+  {
+    icon: <SiBootstrap />,
+    text: "Bootstrap",
+    color: "rgb(128, 10, 249)",
+  },
+  {
+    icon: <RxVercelLogo />,
+    text: "Vercel",
+    color: "rgb(0, 0, 0)",
+  },
+  {
+    icon: <SiAmazonaws />,
+    text: "AWS RDS",
+    color: "rgb(255, 157, 20)",
   },
 ];

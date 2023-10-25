@@ -15,6 +15,7 @@ import Landing from "./Landing";
 import Projects from "./Projects";
 import Resume from "./Resume";
 import Skills from "./Skills";
+import { skillsConfig } from "../config/skillsConfig";
 
 function Main() {
   const [rotateSpeed, setRotateSpeed] = useState(0.5);
@@ -45,7 +46,7 @@ function Main() {
         <SideNav />
         <Landing />
         <About />
-        <Skills />
+        <Skills selectedSkills={skillsConfig} />
         <Projects />
         <Resume />
         <Contact setRotateSpeed={setRotateSpeed} />
