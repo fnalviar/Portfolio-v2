@@ -48,7 +48,7 @@ const projectsConfig = [
     type: "Web App",
     description:
       "Discover a world of limitless entertainment with Netflix. Immerse yourself in a diverse array of movies, TV shows, and original content that caters to every genre and interest. Experience the convenience of streaming on any device, whether it's your TV, laptop, tablet, or smartphone. With personalized recommendations and the freedom to watch as much as you want, whenever you want, Netflix redefines the way you enjoy entertainment. Join millions of subscribers worldwide who have made Netflix their go-to destination for captivating storytelling and unforgettable moments.",
-    liveLink: "https://netflix-clone-ruby-omega.vercel.app/",
+    liveLink: "https://film-flicks-ruby-omega.vercel.app/",
     githubLink: "https://github.com/fnalviar/Netflix-Clone",
     coverImage: NetflixCoverImage,
     topImage: NetflixFrontImage,
