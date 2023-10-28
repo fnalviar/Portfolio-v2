@@ -1,7 +1,7 @@
 export const experienceConfig = [
   {
     name: "Scaling",
-    title: "Junior Frontend Developer",
+    title: "Frontend Developer",
     description: [
       "Spearheaded improvements in user experience, resulting in a 30% increase in user engagement and a 20% reduction in bounce rate, achieved by implementing dynamic route changes",
       "Successfully integrated OAuth for Calendly using its API, enhancing user interaction, and extending sessions beyond the initial 2-hour OAuth validity, resulting in a 40% increase in user sessions and a 15% boost in authentication efficiency",
