@@ -29,7 +29,7 @@ const Resume = () => {
             <div className="resume__contact--info">
               <div>
                 <FaDownload />
-                <a className="resume__link" href="/resume.pdf" target="_blank">
+                <a className="resume__link" href="/Nikka_Alviar_Resume.pdf" target="_blank">
                   Download Resume
                 </a>
               </div>
@@ -54,14 +54,23 @@ const Resume = () => {
               </div>
             </div>
             <div>
-              Performance-driven Front-End Developer with a proven track record
-              of translating design concepts into seamless user experiences. I
-              possess a versatile skill set encompassing the development of
-              interactive web applications, robust systems, and innovative
-              solutions that align with organizational goals. My ability to
-              excel in fast-paced settings, coupled with my expertise in
-              software development and technical program management, makes me an
-              asset to any team.
+              I am a proactive and detail-oriented Frontend Developer, actively
+              seeking a Junior role. My technical skills encompass HTML, CSS,
+              JavaScript, React, TypeScript, Next.JS, Redux, Bootstrap, Angular,
+              and more. I have a track record of successfully managing agile
+              projects, implementing payment gateways, and enhancing user
+              experiences in my previous roles. In addition to my technical
+              expertise, I bring a range of valuable soft skills to the table.
+              <br />
+              <br />
+              My strong problem-solving abilities, excellent communication
+              skills, and a keen eye for user-centric design have consistently
+              driven project success. I thrive in collaborative environments,
+              and my adaptability and time management ensure efficient project
+              delivery. With a solid academic background in Information
+              Technology and practical training from the Frontend Simplified
+              Bootcamp, I am well-prepared to contribute to innovative web
+              development projects, driving user engagement and revenue growth.
             </div>
           </div>
         </div>
@@ -74,11 +83,13 @@ const Resume = () => {
                 <div className="resume__job--name">
                   Honours Bachelor of Arts, Information Technology Major
                 </div>
-                <div>York University</div>
+                <div className="resume__job--location">York University</div>
                 <div className="resume__job--name">
                   Web Application Development
                 </div>
-                <div>Frontend Simplified Bootcamp</div>
+                <div className="resume__job--location">
+                  Frontend Simplified Bootcamp
+                </div>
               </div>
               <div className="resume__job--date"></div>
             </div>

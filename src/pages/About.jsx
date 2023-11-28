@@ -95,23 +95,31 @@ function About() {
     <div className="container" id="about">
       <div className="about__wrapper" data-aos="fade-down" data-aos-delay="50">
         <div className="about__left playfair">
-          I'm a performance-driven Software Engineer with a strong passion for
-          website development.
+          I am a Software Engineer who is dedicated to elevating web development
+          experiences through unwavering commitment and a focus on performance
+          excellence.
         </div>
         <div className="about__right lato">
-          As a Junior Frontend Developer at Scaling, I act as a bridge between
+          {/* As a Frontend Developer at Scaling, I act as a bridge between
           design and functionality. My role blends design concepts with
           functional frontend code, crafting pixel-perfect interfaces and
           ensuring seamless responsiveness. Collaborating with designers and
           experienced developers, I create user-centric web experiences.
           Mastering HTML, CSS, and JavaScript where I enhance user experiences.
           At , my dedication is in building bridges between aesthetics
-          and technology for dynamic digital interfaces.
+          and technology for dynamic digital interfaces. */}
+          Being a Frontend Developer at Scaling is like being the matchmaker
+          between design and functionality. I bring design dreams to life
+          through functional code, making sure every pixel is in its happy place
+          and our interfaces dance seamlessly on all devices. I'm all about
+          teaming up with designers and seasoned developers to cook up
+          user-friendly web experiences. From mastering HTML, CSS, to the magic
+          of JavaScript, I'm here to build bridges between beauty and tech for
+          vibrant digital interfaces.
           <br />
           <br />
-          Persistently striving to enhance my expertise and capabilities, I am
-          dedicated to refining my knowledge and skills with the goal of
-          surpassing my self yesterday.
+          I'm on a constant journey to level up my skills and knowledge. My
+          dedication is all about outdoing myself from yesterday.
         </div>
       </div>
       <img id="clouds" src={Clouds} />

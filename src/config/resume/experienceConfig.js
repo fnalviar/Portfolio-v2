@@ -10,6 +10,16 @@ export const experienceConfig = [
     date: "Jan 2023 - Present",
   },
   {
+    name: "Frontend Simplified",
+    title: "Frontend Developer Intern",
+    description: [
+      "Transformed a completely static HTML, CSS, JavaScript and React single page application into an interactive user interface using animations, transitions, and carousels",
+      "Processed API requests with Axios to dynamically represent data from a cloud server, improving data loading times by 40% and enhancing the overall user experience",
+      "Implemented skeleton loading states, pagination, and dynamic routing, resulting in a 25% boost in page load speed",
+    ],
+    date: "Sept 2022 - Dec 2022",
+  },
+  {
     name: "Revature",
     title: "Full Stack Developer Intern",
     description: [
@@ -18,6 +28,6 @@ export const experienceConfig = [
       "Utilized Git and Maven for version control and build automation, reducing build times by 20% and improving the overall software development process",
       "Delivered high-quality web applications on tight deadlines, adhering to Agile Methodology with bi-weekly sprints, achieving a 100% success rate in project delivery",
     ],
-    date: "Sept 2022 - Dec 2022",
+    date: "Apr 2022 - Aug 2022",
   },
 ];

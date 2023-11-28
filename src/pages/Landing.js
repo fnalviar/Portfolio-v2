@@ -114,7 +114,7 @@ export default function Landing() {
           <a target="_blank" rel="no-refferer" href="https://www.linkedin.com/in/nikka-alviar">
             <img src={linkedinIcon} alt="linkedinIcon" />
           </a>
-          <a target="_blank" rel="no-refferer" href="/resume.pdf">
+          <a target="_blank" rel="no-refferer" href="/Nikka_Alviar_Resume.pdf">
             <img src={resumeIcon} alt="resumeIcon" />
           </a>
         </div>

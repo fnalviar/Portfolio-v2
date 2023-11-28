@@ -31,7 +31,7 @@ const Footer = () => {
           </a>
         </div>
         <div>
-          <a className="icons__svg" target="_blank" href="/resume.pdf">
+          <a className="icons__svg" target="_blank" href="/Nikka_Alviar_Resume.pdf">
             <AiFillFilePdf />
           </a>
         </div>

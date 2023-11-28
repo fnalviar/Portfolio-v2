@@ -1096,6 +1096,10 @@ nav.open {
   font-size: 18px;
 }
 
+.resume__job--location {
+  padding-bottom: 1rem;
+}
+
 .resume__list-wrapper {
   padding-left: 20px;
   text-align: justify;
@@ -1314,11 +1318,11 @@ nav.open {
 .icons__svg svg {
   width: 1.5em;
   height: 1.5em;
-  color: #FF0033;
+  color: #ff0033;
 }
 
 .mailIcon svg {
-  fill: #FFCC00;
+  fill: #ffcc00;
 }
 
 @media (max-width: 900px) {
