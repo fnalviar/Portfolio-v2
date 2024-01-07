@@ -108,7 +108,7 @@ export default function Landing() {
           Frontend Developer / Frontend Software Engineer
         </p>
         <div className="landing__iconscontainer">
-          <a target="_blank" rel="no-refferer" href="https://github.com/fnalviar">
+          <a target="_blank" rel="no-refferer" href="https://github.com/nikkaalviar">
             <img src={gitHubIcon} alt="gitHubIcon" />
           </a>
           <a target="_blank" rel="no-refferer" href="https://www.linkedin.com/in/nikka-alviar">

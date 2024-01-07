@@ -16,7 +16,7 @@ const Footer = () => {
       </a>
       <div className="footer__link--wrapper">
         <div>
-          <a target="_blank" href="https://github.com/fnalviar">
+          <a target="_blank" href="https://github.com/nikkaalviar">
             <GithubIcon />
           </a>
         </div>

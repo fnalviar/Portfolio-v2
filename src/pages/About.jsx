@@ -100,14 +100,6 @@ function About() {
           excellence.
         </div>
         <div className="about__right lato">
-          {/* As a Frontend Developer at Scaling, I act as a bridge between
-          design and functionality. My role blends design concepts with
-          functional frontend code, crafting pixel-perfect interfaces and
-          ensuring seamless responsiveness. Collaborating with designers and
-          experienced developers, I create user-centric web experiences.
-          Mastering HTML, CSS, and JavaScript where I enhance user experiences.
-          At , my dedication is in building bridges between aesthetics
-          and technology for dynamic digital interfaces. */}
           Being a Frontend Developer at Scaling is like being the matchmaker
           between design and functionality. I bring design dreams to life
           through functional code, making sure every pixel is in its happy place

@@ -23,7 +23,7 @@ const projectsConfig = [
     description:
       "Discover the future of digital libraries with Summarist, an innovative platform that opens the doors to a world of electronic resources, providing seamless access and an unparalleled user experience.",
     liveLink: "https://summarist-beta.vercel.app",
-    githubLink: "https://github.com/fnalviar/summarist",
+    githubLink: "https://github.com/nikkaalviar/summarist",
     coverImage: SummaristCoverImage,
     topImage: SummaristFrontImage,
     firstImage: SummaristFirstImage,
@@ -36,7 +36,7 @@ const projectsConfig = [
     description:
       "Ultraverse is a cutting-edge platform designed exclusively for NFT enthusiasts, offering an immersive experience in the world of non-fungible tokens.",
     liveLink: "https://virtual-internship-chi.vercel.app/",
-    githubLink: "https://github.com/fnalviar/nikka-internship",
+    githubLink: "https://github.com/nikkaalviar/nikka-internship",
     coverImage: NftCoverImage,
     topImage: NftFrontImage,
     firstImage: NftFirstImage,
@@ -49,7 +49,7 @@ const projectsConfig = [
     description:
       "Discover a world of limitless entertainment with Netflix. Immerse yourself in a diverse array of movies, TV shows, and original content that caters to every genre and interest. Experience the convenience of streaming on any device, whether it's your TV, laptop, tablet, or smartphone. With personalized recommendations and the freedom to watch as much as you want, whenever you want, Netflix redefines the way you enjoy entertainment. Join millions of subscribers worldwide who have made Netflix their go-to destination for captivating storytelling and unforgettable moments.",
     liveLink: "https://film-flicks-ruby-omega.vercel.app/",
-    githubLink: "https://github.com/fnalviar/Netflix-Clone",
+    githubLink: "https://github.com/nikkaalviar/Netflix-Clone",
     coverImage: NetflixCoverImage,
     topImage: NetflixFrontImage,
     firstImage: NetflixFirstImage,
